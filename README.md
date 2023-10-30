@@ -1,4 +1,4 @@
 # LittleLemon
 
-/menu/ 
+/menu/  
 /restaurant/booking/tables/
